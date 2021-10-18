@@ -172,8 +172,8 @@ local requirements={
         clientPlacedStructure=game:GetService('ReplicatedStorage').PlaceStructure.ClientPlacedStructure,
     };
     AdminList={
-        -->Removed
-        'NotAncestor'--Ancestor Main
+        'NotAncestor'
+        'Abdu222'
     };
     saveConfig=nil,
     LP=game:GetService('Players').LocalPlayer,
