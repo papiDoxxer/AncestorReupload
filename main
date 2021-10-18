@@ -1,5 +1,5 @@
 repeat wait()until game:IsLoaded()and game.Players.LocalPlayer.Character;
-local lib=loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkXRBLX/LT2/main/ui'))();
+local lib=loadstring(game:HttpGet('https://raw.githubusercontent.com/ItzJackx/AncestorReupload/main/ui'))();
 local requirements={
     ConfigSetup={
         AlwaysDay=false, 
