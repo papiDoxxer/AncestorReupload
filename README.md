@@ -1,10 +1,9 @@
 # AncestorReupload
 
-did not create full rights go to Ancestor if he wants this taken down he may do so btw
+I do not own this Script, Full rights go to Ancestor if he wants this taken down he can contact me via discord idot.exe#2112. This script will not be updated.
+Down below is a message of resignment by Ancestor giving rights to editing , forking and using his code.
 
 
-
-"--[[
     Made by Ancestor. Feel free to use whatever you want for whatever you want. Idc about credit.
 
     Take this is a formal notice of resignment from Roblox. My future lies elsewhere.
@@ -34,5 +33,3 @@ did not create full rights go to Ancestor if he wants this taken down he may do 
 
 
     Yes I know some parts of this is coded like an ape. Anyways enjoy ig
-]]
-"
